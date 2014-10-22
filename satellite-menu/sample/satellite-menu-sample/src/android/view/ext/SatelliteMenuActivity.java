@@ -25,8 +25,8 @@ public class SatelliteMenuActivity extends Activity {
 //        menu.setTotalSpacingDegree(60);
         
         List<SatelliteMenuItem> items = new ArrayList<SatelliteMenuItem>();
-        items.add(new SatelliteMenuItem(4, R.drawable.ic_1));
-        items.add(new SatelliteMenuItem(4, R.drawable.ic_3));
+        items.add(new SatelliteMenuItem(6, R.drawable.ic_1));
+        items.add(new SatelliteMenuItem(5, R.drawable.ic_3));
         items.add(new SatelliteMenuItem(4, R.drawable.ic_4));
         items.add(new SatelliteMenuItem(3, R.drawable.ic_5));
         items.add(new SatelliteMenuItem(2, R.drawable.ic_6));
